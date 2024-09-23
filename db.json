@@ -1,0 +1,29 @@
+{
+  "profiles": [],
+  "users": [],
+  "learners": [],
+  "experts": [],
+  "courses": [
+    {
+      "id": 1,
+      "title": "First impression of hydroponic systems",
+      "expertId": 1,
+      "description": "This is a basic course perfect for you.",
+      "category": "Home made",
+      "level": "Basic",
+      "price": 34,
+      "lessons":[
+        {
+          "id": 1,
+          "title": "Introduction to hydroponics",
+          "pictureLink": "https://hidroponia.org.mx/images/op1ervis/HIDROPONIA-SISTEMA-NFT-KALE.jpg",
+          "description": "In this class you will lear an introduction and principal material that you will need.",
+          "lessonLink": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/DuNjVVzDkW8?si=2FvBHj4SxCLFSNRF\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+          "lessonNotes": "In this class you will lear an introduction and principal material that you will need.Thes most easiest plant to make grow is tomatoes because is not necessary to prepare a specific soil. "
+        }
+      ]
+    }
+  ],
+  "weekly-rank-item": [],
+  "courses-categories-item": []
+}
